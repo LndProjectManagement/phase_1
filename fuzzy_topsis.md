@@ -17,4 +17,10 @@
 4. **C4**: Сложность поддержки (стоимостной - чем меньше, тем лучше)
 
 ### Ссылка на матрицу с расчетами
-* [Fuzzy TOPSIS](https://docs.google.com/spreadsheets/d/1CeGSxQhGytbzbDDpGN_ZIaI5zxnIKMQ-UC8dQAE59dU/edit?gid=0#gid=0)
+* [Fuzzy TOPSIS](https://docs.google.com/spreadsheets/d/1CeGSxQhGytbzbDDpGN_ZIaI5zxnIKMQ-UC8dQAE59dU/edit?gid=84786968#gid=84786968)
+
+## Итоговый рейтинг:
+1. IdeaVault (0.61)
+2. MovieNight (0.36) 
+3. GiftIdeas (0.32)
+4. CookSmart (0.26)
