@@ -17,4 +17,4 @@
 4. **C4**: Сложность поддержки (стоимостной - чем меньше, тем лучше)
 
 ### Ссылка на матрицу с расчетами
-*(Fuzzy TOPSIS)[https://docs.google.com/spreadsheets/d/1CeGSxQhGytbzbDDpGN_ZIaI5zxnIKMQ-UC8dQAE59dU/edit?gid=0#gid=0]
+* [Fuzzy TOPSIS](https://docs.google.com/spreadsheets/d/1CeGSxQhGytbzbDDpGN_ZIaI5zxnIKMQ-UC8dQAE59dU/edit?gid=0#gid=0)
