@@ -1,3 +1,4 @@
 ## Репозиторий по фазе 1
 * [Концепции и критерии - файл concepts.md](https://github.com/LndProjectManagement/phase_1/blob/main/concepts.md)
 * [Определение наиболее подходящего варианта методом нечёткого коллективного TOPSIS, используя трёхточечные оценки - файл fuzzy_topsis.md](https://github.com/LndProjectManagement/phase_1/blob/main/fuzzy_topsis.md)
+* [Определение наиболее подходящего варианта методом анализа иерархий - файл mai.md](https://github.com/LndProjectManagement/phase_1/blob/main/mai.md)
