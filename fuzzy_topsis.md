@@ -20,7 +20,7 @@
 * [Fuzzy TOPSIS](https://docs.google.com/spreadsheets/d/1CeGSxQhGytbzbDDpGN_ZIaI5zxnIKMQ-UC8dQAE59dU/edit?gid=84786968#gid=84786968)
 
 ## Итоговый рейтинг:
-1. IdeaVault (0.61)
-2. MovieNight (0.36) 
-3. GiftIdeas (0.32)
-4. CookSmart (0.26)
+1. IdeaVault (0.21)
+2. MovieNight (0.41) 
+3. GiftIdeas (0.66)
+4. CookSmart (0.31)
