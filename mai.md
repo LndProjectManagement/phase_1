@@ -20,7 +20,7 @@
 * [МАИ](https://docs.google.com/spreadsheets/d/1iPrc1_VNwEFRrzp4Jwucm6WrBcy_7ed97ivhP9JWAQ4/edit?usp=sharing)
 
 ## Итоговый рейтинг:
-1. GiftIdeas (0.32)
-2. CookSmart (0.299)
-3. MovieNight (0.289)
-4. IdeaVault (0.139)
+1. GiftIdeas (0.34)
+2. CookSmart (0.33)
+3. MovieNight (0.21)
+4. IdeaVault (0.11)
